@@ -1,0 +1,6 @@
+Frameworks_Assignment/
+│
+├── app.py                  # Main Streamlit application
+├── metadata.csv            # Dataset file 
+├── requirements.txt        # List of dependencies
+└── README.md               # Project documentation
